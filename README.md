@@ -1,8 +1,4 @@
-<h1 align="center">Hi, I'm Haozhen 👋</h1>
-
-<p align="center">
-  Interested in AI agent systems, tool calling, and practical developer tooling.
-</p>
+# Hi, I'm Ha02hen 👋
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
@@ -10,15 +6,9 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
-## Focus
-
-- AI agent systems and tool calling
-- Python engineering and developer tooling
-- Building practical, maintainable software
-
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ha02hen&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Haozhen's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ha02hen&layout=compact&hide_border=true&theme=transparent" alt="Haozhen's top languages" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ha02hen&theme=transparent" alt="Ha02hen's GitHub stats" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ha02hen&theme=transparent" alt="Ha02hen's top languages" />
 </p>
 
 <p align="center">
